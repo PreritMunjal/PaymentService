@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: payment-service-app
-        image: preritmunjal/paymentservice
+        image: IMAGE_URL/paymentservice
         ports:
         - containerPort: 8081
         env:

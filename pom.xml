@@ -103,7 +103,7 @@
 						<image>openjdk:11</image>
 					</from>
 					<to>
-						<image>registry.hub.docker.com/preritmunjal/paymentservice</image>
+						<image>${REPO_URL}/paymentservice</image>
 						<tags>${project.version}</tags>
 					</to>
 				</configuration>
