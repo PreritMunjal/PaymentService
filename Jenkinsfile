@@ -11,7 +11,7 @@ node{
         branches: [[name: '*/main']],
         extensions: [],
         userRemoteConfigs: [[credentialsId: 'git',
-        url: 'https://github.com/PreritMunjal/PaymentService.git']]])
+        url: 'https://github.com/shabbirdwd53/PaymentService.git']]])
     }
     stage('Build and Push Image'){
         //withEnv(['GCLOUD_PATH=/snap/bin/gcloud']){
